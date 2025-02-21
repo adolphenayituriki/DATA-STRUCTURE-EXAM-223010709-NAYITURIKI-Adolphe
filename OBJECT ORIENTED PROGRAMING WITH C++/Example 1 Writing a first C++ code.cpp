@@ -1,7 +1,7 @@
-#include <iostream>  // Include input-output library
-using namespace std; // Use standard namespace
+#include <iostream> 
+using namespace std;
 
-int main() {  // Main function
-    cout << "Hello, World! Am called Adolphe Nayituriki.";  // Print output to the screen
-    return 0;  // Return 0 to indicate successful execution
+int main() { 
+    cout << "Hello, World! Am called Adolphe Nayituriki.";
+    return 0;
 }
